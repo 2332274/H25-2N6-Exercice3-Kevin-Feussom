@@ -16,3 +16,4 @@ for file in  os.listdir():
 # #     utilisez strip pour enlever les espaces qui pourraient rester pour le titre et le numéro
 # #     en plus utilisez zfill pour remplir le numéro de sorte que 1 deviendra 01
 # #     recréez le nouveau nom de fichier#   utliser os.rename pour renommer le fichier
+tttt
